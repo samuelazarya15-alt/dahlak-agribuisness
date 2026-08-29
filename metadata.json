@@ -1,0 +1,6 @@
+{
+  "name": "Dahlak Agribusiness and Vocational Center",
+  "description": "Official portal for Dahlak Agribusiness and Vocational Center, founded by Yonas Hadgu. Specializing in agricultural consultation, agripreneurship, agri-startup financial management, vocational skill training, poultry brooding & layers, and organic crop production in Uganda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
